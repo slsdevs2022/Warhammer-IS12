@@ -39,6 +39,7 @@ SeniorAdmin     +EVERYTHING
 
 HeadDeveloper   +EVERYTHING
 HeadAdmin       +EVERYTHING
+Manager			+EVERYTHING
 Host            +EVERYTHING
 
 Developer       +DEBUG +VAREDIT +SERVER +SPAWN +REJUV +POSSESS +BUILDMODE +ADMIN +FUN
